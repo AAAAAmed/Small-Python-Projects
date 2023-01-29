@@ -1,6 +1,5 @@
 import requests
 import json
-
 while True:
     # Collect json data from chess.com
     username = input("\nEnter your Chess.com username: ")
