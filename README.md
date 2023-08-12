@@ -1,4 +1,4 @@
-# Random-Python-Projects
-A bunch of small, random projects I did for fun.
+# Small-Python-Projects
+this is just a couple of small projects I did for fun
 
-# *:)*
+***:)***
