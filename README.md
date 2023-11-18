@@ -1,2 +1,2 @@
 # Small-Python-Projects
-this is just a couple of small projects I did for fun **:)**
+just some small projects I did for fun **:)**
